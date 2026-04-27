@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0fc08a3-ed99-4eec-8e66-b5f468834e0a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2alRlZmk6n63a9zBsTYZjWeAuwa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.demo_val.executor&quot;: &quot;Run&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/Desktop/SE/traffic_prediction_wym_DenseNet_SE_1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.demo_val">
+    <configuration name="demo_val" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="traffic_prediction-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\WYM\anaconda3\envs\pytorch\python.exe" />
+      <option name="SDK_NAME" value="Python 3.13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STDenseNetFusion/scripts" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STDenseNetFusion/scripts/demo_val.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hpath" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="traffic_prediction-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STDenseNetFusion/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STDenseNetFusion/scripts/hpath.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="linear_model" type="PythonConfigurationType" factoryName="Python">
+      <module name="traffic_prediction-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STDenseNetFusion/shallow_learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STDenseNetFusion/shallow_learning/linear_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="milanno" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="traffic_prediction-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Program Files\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/STDenseNetFusion/dataloader" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/STDenseNetFusion/dataloader/milanno.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="traffic_prediction-master" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/plot_Results" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot_Results/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.demo_val" />
+      <item itemvalue="Python.hpath" />
+      <item itemvalue="Python.linear_model" />
+      <item itemvalue="Python.milanno" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hpath" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0fc08a3-ed99-4eec-8e66-b5f468834e0a" name="Default Changelist" comment="" />
+      <created>1704891330541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704891330541</updated>
+      <workItem from="1704891331628" duration="2096000" />
+      <workItem from="1704963921013" duration="2603000" />
+      <workItem from="1705026696996" duration="2693000" />
+      <workItem from="1705029416186" duration="2123000" />
+      <workItem from="1705061007023" duration="5074000" />
+      <workItem from="1705326425454" duration="1715000" />
+      <workItem from="1705329804288" duration="201000" />
+      <workItem from="1705330015529" duration="2102000" />
+      <workItem from="1705410061723" duration="1041000" />
+      <workItem from="1705411417477" duration="54000" />
+      <workItem from="1708009025730" duration="765000" />
+      <workItem from="1709456095695" duration="492000" />
+      <workItem from="1709523019609" duration="2362000" />
+      <workItem from="1710934556027" duration="880000" />
+      <workItem from="1711008000163" duration="405000" />
+      <workItem from="1712556026131" duration="12034000" />
+      <workItem from="1712572812216" duration="636000" />
+      <workItem from="1712573459481" duration="226000" />
+      <workItem from="1712573693429" duration="167000" />
+      <workItem from="1712573988103" duration="33000" />
+      <workItem from="1712574107471" duration="39000" />
+      <workItem from="1712574258268" duration="361000" />
+      <workItem from="1712574631861" duration="25000" />
+      <workItem from="1712574692006" duration="74000" />
+      <workItem from="1712574773301" duration="621000" />
+      <workItem from="1712626432738" duration="16466000" />
+      <workItem from="1712753418326" duration="4321000" />
+      <workItem from="1712802485431" duration="2227000" />
+      <workItem from="1712811977107" duration="7197000" />
+      <workItem from="1712841753830" duration="1734000" />
+      <workItem from="1712906284334" duration="598000" />
+      <workItem from="1712969318010" duration="3199000" />
+      <workItem from="1713141566417" duration="15708000" />
+      <workItem from="1713169572717" duration="5800000" />
+      <workItem from="1713230324409" duration="5290000" />
+      <workItem from="1713235835380" duration="6713000" />
+      <workItem from="1713319450454" duration="3690000" />
+      <workItem from="1713363138039" duration="1853000" />
+      <workItem from="1713415337555" duration="6971000" />
+      <workItem from="1713489025369" duration="7975000" />
+      <workItem from="1713499715973" duration="310000" />
+      <workItem from="1713513488386" duration="1168000" />
+      <workItem from="1713686891289" duration="1863000" />
+      <workItem from="1713750187415" duration="11217000" />
+      <workItem from="1713789383487" duration="2686000" />
+      <workItem from="1714027228223" duration="864000" />
+      <workItem from="1714042994489" duration="5109000" />
+      <workItem from="1714310427731" duration="599000" />
+      <workItem from="1714358540105" duration="599000" />
+      <workItem from="1714380664230" duration="604000" />
+      <workItem from="1715067936580" duration="3831000" />
+      <workItem from="1715072578056" duration="9481000" />
+      <workItem from="1715088554592" duration="1248000" />
+      <workItem from="1715134135056" duration="7326000" />
+      <workItem from="1715218097824" duration="694000" />
+      <workItem from="1715221868800" duration="1285000" />
+      <workItem from="1715243008827" duration="1216000" />
+      <workItem from="1715309275415" duration="1613000" />
+      <workItem from="1715318426967" duration="1204000" />
+      <workItem from="1715413158462" duration="714000" />
+      <workItem from="1715436429511" duration="1944000" />
+      <workItem from="1715490839356" duration="8308000" />
+      <workItem from="1715564861994" duration="3134000" />
+      <workItem from="1715606746589" duration="609000" />
+      <workItem from="1715776781393" duration="619000" />
+      <workItem from="1715824179191" duration="4183000" />
+      <workItem from="1715924537495" duration="1199000" />
+      <workItem from="1715941780940" duration="9330000" />
+      <workItem from="1716010408020" duration="6915000" />
+      <workItem from="1716108363265" duration="3014000" />
+      <workItem from="1716111720339" duration="2321000" />
+      <workItem from="1716121423609" duration="3694000" />
+      <workItem from="1716173574719" duration="775000" />
+      <workItem from="1716451214530" duration="1220000" />
+      <workItem from="1716553676017" duration="1198000" />
+      <workItem from="1716558771958" duration="92000" />
+      <workItem from="1716622195426" duration="603000" />
+      <workItem from="1716724884259" duration="1034000" />
+      <workItem from="1716728267317" duration="5000" />
+      <workItem from="1717054949721" duration="1213000" />
+      <workItem from="1717074861626" duration="995000" />
+      <workItem from="1717155070517" duration="598000" />
+      <workItem from="1717248753178" duration="799000" />
+      <workItem from="1717669430142" duration="6887000" />
+      <workItem from="1717741965673" duration="4142000" />
+      <workItem from="1717829372459" duration="2023000" />
+      <workItem from="1718107123386" duration="1294000" />
+      <workItem from="1718698277394" duration="43000" />
+      <workItem from="1775113729438" duration="5209000" />
+      <workItem from="1777291394645" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/traffic_prediction_master$milanno.coverage" NAME="milanno Coverage Results" MODIFIED="1710934716616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STDenseNetFusion/dataloader" />
+    <SUITE FILE_PATH="coverage/traffic_prediction_master$linear_model.coverage" NAME="linear_model Coverage Results" MODIFIED="1712628561559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STDenseNetFusion/shallow_learning" />
+    <SUITE FILE_PATH="coverage/traffic_prediction_master_wym_DenseNet$demo_val.coverage" NAME="demo_val Coverage Results" MODIFIED="1715087438691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STDenseNetFusion/scripts" />
+    <SUITE FILE_PATH="coverage/traffic_prediction_wym_DenseNet_SE_1$hpath.coverage" NAME="hpath Coverage Results" MODIFIED="1717672434934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STDenseNetFusion/scripts" />
+    <SUITE FILE_PATH="coverage/traffic_prediction_master_wym$demo_val.coverage" NAME="demo_val Coverage Results" MODIFIED="1713233965499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STDenseNetFusion/scripts" />
+    <SUITE FILE_PATH="coverage/traffic_prediction_master_wym_CNN$hpath.coverage" NAME="hpath Coverage Results" MODIFIED="1715069934642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STDenseNetFusion/scripts" />
+    <SUITE FILE_PATH="coverage/traffic_prediction_master_wym_CNN$demo_val.coverage" NAME="demo_val Coverage Results" MODIFIED="1714050523879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STDenseNetFusion/scripts" />
+    <SUITE FILE_PATH="coverage/traffic_prediction_master$test.coverage" NAME="test Coverage Results" MODIFIED="1713147417468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/plot_Results" />
+    <SUITE FILE_PATH="coverage/traffic_prediction_master$demo_val.coverage" NAME="demo_val Coverage Results" MODIFIED="1713174933236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STDenseNetFusion/scripts" />
+    <SUITE FILE_PATH="coverage/traffic_prediction_wym_DenseNet_SE_1$demo_val.coverage" NAME="demo_val 覆盖结果" MODIFIED="1775114990887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/STDenseNetFusion/scripts" />
+  </component>
+</project>
